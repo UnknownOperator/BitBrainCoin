@@ -13,3 +13,5 @@ manufacturer's warranty. The computers and parts will be under manufacturer warr
 After Implementation of these two above goals, we will launch The BitBrain's Decentraleized Exchange(BDE). We have studied proprietary 
 security measures and flaws in exchange systems that lead to theft and exit scams. We aim to improve the security of funds of our partners 
 and clients.
+
+All code and wallets are to be released based upon community size, this depends on growth. We estimate 1552075320 unix time.
