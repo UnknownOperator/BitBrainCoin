@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/bitbraincoin_bg.qm</file>
+        <file alias="de">locale/bitbraincoin_de.qm</file>
+        <file alias="en">locale/bitbraincoin_en.qm</file>
+        <file alias="es">locale/bitbraincoin_es.qm</file>
+        <file alias="fi">locale/bitbraincoin_fi.qm</file>
+        <file alias="fr">locale/bitbraincoin_fr.qm</file>
+        <file alias="it">locale/bitbraincoin_it.qm</file>
+        <file alias="ja">locale/bitbraincoin_ja.qm</file>
+        <file alias="nl">locale/bitbraincoin_nl.qm</file>
+        <file alias="pl">locale/bitbraincoin_pl.qm</file>
+        <file alias="pt">locale/bitbraincoin_pt.qm</file>
+        <file alias="ru">locale/bitbraincoin_ru.qm</file>
+        <file alias="sk">locale/bitbraincoin_sk.qm</file>
+        <file alias="sv">locale/bitbraincoin_sv.qm</file>
+        <file alias="vi">locale/bitbraincoin_vi.qm</file>
+        <file alias="zh_CN">locale/bitbraincoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/bitbraincoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+qt/qt_libbitbraincoinqt_a-qrc_bitbraincoin.o: qt/qrc_bitbraincoin.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

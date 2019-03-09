@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitBrainCoin Core
+Comment=BitBrainCoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem BitBrainCoin peer-to-peer Netzwerk
+Comment[fr]=BitBrainCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitBrainCoin, eşten eşe kriptografik sanal para birimi
+Exec=bitbraincoin-qt %u
+Terminal=false
+Type=Application
+Icon=bitbraincoin128
+MimeType=x-scheme-handler/bitbraincoin;
+Categories=Office;Finance;

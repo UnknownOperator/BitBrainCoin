@@ -1,0 +1,22 @@
+[Unit]
+Description=BitBrainCoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=bitbraincoincore
+Group=bitbraincoincore
+
+Type=forking
+PIDFile=/var/lib/bitbraincoind/bitbraincoind.pid
+ExecStart=/usr/bin/bitbraincoind -daemon -pid=/var/lib/bitbraincoind/bitbraincoind.pid \
+-conf=/etc/bitbraincoincore/bitbraincoin.conf -datadir=/var/lib/bitbraincoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
