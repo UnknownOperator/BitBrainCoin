@@ -1,0 +1,6 @@
+usr/local/bin/bitbraincoin-qt usr/bin
+share/pixmaps/bitbraincoin32.xpm usr/share/pixmaps
+share/pixmaps/bitbraincoin16.xpm usr/share/pixmaps
+share/pixmaps/bitbraincoin128.png usr/share/pixmaps
+debian/bitbraincoin-qt.desktop usr/share/applications
+debian/bitbraincoin-qt.protocol usr/share/kde4/services/
